@@ -1,5 +1,15 @@
 # 💫 About Me:
-Estudante de Analise e Desenvolvimento de Sistemas pela Unicesumar desde Janeiro de 2023. Estou na área de programação com Python e Javascript desde 2019.<br>Participei de eventos voltados a Cyber Security, Machine Learning, Deep Learning, Cloud Computer e DevOps.
+👋 Bem-vindo ao meu perfil do GitHub! Eu sou Marcus Castilho, um estudante de ensino superior apaixonado por tecnologia e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS).
+
+💻 Minha expertise reside na área de desenvolvimento de software, com habilidades sólidas em uma variedade de linguagens e tecnologias. Sou proficiente em Python, Javascript, Node.js, TypeScript e PHP, e estou sempre buscando aprimorar meu conhecimento nessas áreas em constante evolução.
+
+🌟 Além disso, tenho experiência em trabalhar com Git, GitHub e Git Flow para o controle de versão de projetos. Sou adepto de frameworks modernos como Nest.js, Next.js e React, e possuo habilidades em HTML, CSS, Bootstrap e Bulma para criar interfaces de usuário incríveis.
+
+🗄️ No campo de bancos de dados, tenho conhecimento em sistemas relacionais, e estou familiarizado com ORM (Object-Relational Mapping) e Prisma. Também possuo conhecimentos sólidos em redes, administração de servidores web e APIs REST, além de ter um interesse especial em segurança cibernética.
+
+🔐 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades, sempre comprometido em oferecer soluções inovadoras e de alta qualidade. Sou um colaborador proativo, capaz de trabalhar tanto em equipe quanto de forma independente.
+
+🚀 Se você está procurando um profissional entusiasmado, determinado e com sede de conhecimento, que está disposto a enfrentar desafios tecnológicos, estou pronto para contribuir para o sucesso do seu projeto. Vamos conectar e explorar oportunidades juntos!
 
 
 ## 🌐 Socials:
