@@ -1,8 +1,17 @@
 ![Castpy Tech](https://github.com/castpyGH/castpyGH/assets/61066188/05383015-f5a0-4fb2-8ce7-f6d6bd9240ef)
 
 # 💫 About Me:
-👋 Bem-vindo ao meu perfil do GitHub! Eu sou Marcus Castilho, um estudante de ensino superior apaixonado por tecnologia e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS).<br><br>💻 Minha expertise reside na área de desenvolvimento de software, com habilidades sólidas em uma variedade de linguagens e tecnologias. Sou proficiente em Python, Javascript, Node.js, TypeScript e PHP, e estou sempre buscando aprimorar meu conhecimento nessas áreas em constante evolução.<br><br>🌟 Além disso, tenho experiência em trabalhar com Git, GitHub e Git Flow para o controle de versão de projetos. Sou adepto de frameworks modernos como Nest.js, Next.js e React, e possuo habilidades em HTML, CSS, Bootstrap e Bulma para criar interfaces de usuário incríveis.<br><br>🗄️ No campo de bancos de dados, tenho conhecimento em sistemas relacionais, e estou familiarizado com ORM (Object-Relational Mapping) e Prisma. Também possuo conhecimentos sólidos em redes, administração de servidores web e APIs REST, além de ter um interesse especial em segurança cibernética.<br><br>🔐 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades, sempre comprometido em oferecer soluções inovadoras e de alta qualidade. Sou um colaborador proativo, capaz de trabalhar tanto em equipe quanto de forma independente.<br><br>🚀 Se você está procurando um profissional entusiasmado, determinado e com sede de conhecimento, que está disposto a enfrentar desafios tecnológicos, estou pronto para contribuir para o sucesso do seu projeto. Vamos conectar e explorar oportunidades juntos!
-
+Olá! Me chamo Marcus Castilho e sou um apaixonado Desenvolvedor de Software FullStack, especializado em JavaScript. Minhas jornadas profissionais me levaram a trabalhar em projetos desafiadores e gratificantes.
+<br/><br/>
+Na SDE Incubator, tive a oportunidade de mergulhar no mundo dos sistemas hospitalares e bancários, onde pude aplicar meu conhecimento em tecnologias como Next.js, React.js, Node.js e Prisma. Durante mais de um ano, contribuí para o desenvolvimento e aprimoramento desses sistemas, adquirindo uma visão abrangente e detalhada das necessidades e exigências desse setor.
+<br/><br/>
+Além disso, minha colaboração com a Castpy Tech me permitiu expandir meu horizonte para sistemas de delivery e gateway de pagamentos online. Trabalhar nesse ambiente dinâmico e ágil me proporcionou insights valiosos sobre a importância da escalabilidade, segurança e experiência do usuário em soluções tecnológicas.
+<br/><br/>
+Minhas habilidades abrangem não apenas as mencionadas anteriormente, como Next.js, Nest.js, React Native.js, Express.js, PostgreSQL e MongoDB, mas também incluem uma sólida experiência em todo ecossistema de cloud, garantindo a entrega de soluções robustas e eficientes.
+<br/><br/>
+Estou sempre em busca de desafios empolgantes e oportunidades para continuar aprendendo e crescendo profissionalmente. Se você está em busca de um profissional comprometido, criativo e apaixonado por tecnologia, ficarei feliz em contribuir para o sucesso de sua equipe e projetos.
+<br/><br/>
+Vamos conectar e explorar juntos o mundo da tecnologia!
 
 
 # 💻 Tech Stack:
